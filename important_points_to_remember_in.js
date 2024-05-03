@@ -5,5 +5,4 @@
 //console.log(typeof xyz);
 //undefined is a type
 //null is an object
-
-//objects
+//objects to be continue
