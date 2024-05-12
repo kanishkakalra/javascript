@@ -6,3 +6,6 @@
 //undefined is a type
 //null is an object
 //objects to be continue
+//date is an object
+//javascript ke andar month jo hai voh zero se start hote hai 
+// agr hum() ni lgate ya bhool jate hai methods ke baad toh yeh bss khud ko refer hi krr paate hai agr humko unko call krna hai toh () dena hi pdega 
