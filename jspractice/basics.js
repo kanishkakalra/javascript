@@ -21,3 +21,4 @@ let kuchnum = 77;
 let kuch = String(kuchnum);
 console.log(typeof kuch);
 console.log(kuch);
+// pta ni kyu ni chlra codespaces kya bimari hui hai usko 
